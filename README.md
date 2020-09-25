@@ -22,7 +22,7 @@ The repo will be maintained until the official binary is released.
 
 #### Windows on ARM (ARM64)
 
-[go1.15.2.windows-arm64.zip](https://github.com/thongtech/go-arm64/releases/download/1.15.2/go1.15.2.windows-arm64.zip)
+[go1.15.2.windows-arm64.zip](https://github.com/thongtech/go-windows-arm64/releases/download/1.15.2/go1.15.2.windows-arm64.zip)
 
 - Extract ZIP to C:\Go
 - Add C:\Go\bin to system PATH
