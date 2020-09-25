@@ -27,7 +27,7 @@ The repo will be maintained until the official binary is released.
 - Extract ZIP to C:\Go
 - Add C:\Go\bin to system PATH
 - Add %USERPROFILE%/go/bin to user PATH
-- Add %USERPROFILE%/go to user variables
+- Add %USERPROFILE%/go as GOPATH to user variables
 - Done
 
 #### Binary Distributions
