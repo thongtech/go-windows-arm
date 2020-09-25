@@ -12,7 +12,23 @@ There is a mirror of the repository at https://github.com/golang/go.
 Unless otherwise noted, the Go source files are distributed under the
 BSD-style license found in the LICENSE file.
 
+### Unofficial Binary
+
+This is an unofficial binary of Go/Golang for Windows on ARM (ARM64) devices,
+such as Microsoft Surface Pro X, Lenovo Yoga C630, Samsung Galaxy Book S, etc.
+The repo will be maintained until the official binary is released.
+
 ### Download and Install
+
+#### Windows on ARM (ARM64)
+
+[go1.15.2.windows-arm64.zip](https://github.com/thongtech/go-arm64/releases/download/1.15.2/go1.15.2.windows-arm64.zip)
+
+- Extract ZIP to C:\Go
+- Add C:\Go\bin to system PATH
+- Add %USERPROFILE%/go/bin to user PATH
+- Add %USERPROFILE%/go to user variables
+- Done
 
 #### Binary Distributions
 
