@@ -22,12 +22,12 @@ The repo will be maintained until the official binary is released.
 
 #### Windows on ARM
 
-[go1.15.2.windows-arm.zip](https://github.com/thongtech/go-windows-arm/releases/download/1.15.2/go1.15.2.windows-arm.zip)
+[go1.15.7.windows-arm.zip](https://github.com/thongtech/go-windows-arm/releases/download/1.15.7/go1.15.7.windows-arm.zip)
 
 - Extract ZIP to C:\Go
 - Add C:\Go\bin to system PATH
-- Add %USERPROFILE%/go/bin to user PATH
-- Add %USERPROFILE%/go as GOPATH to user variables
+- Add %USERPROFILE%\go\bin to user PATH
+- Add %USERPROFILE%\go as GOPATH to user variables
 - Done
 
 #### Binary Distributions
