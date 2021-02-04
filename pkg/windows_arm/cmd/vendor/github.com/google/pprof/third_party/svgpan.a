@@ -1,7 +1,7 @@
 !<arch>
 __.PKGDEF       0           0     0     644     8166      `
-go object windows arm go1.15.2 X:framepointer
-build id "lAcKEHqspjgsy2YjDCv_/EMEvpzXXJ0_V2oQF2AZ-"
+go object windows arm go1.15.7 X:framepointer
+build id "RJP1VHp3yQJDo0Wxs356/D0jwRZQI3myERBpDIOEz"
 
 
 $$B
@@ -296,8 +296,8 @@ function handleMouseUp(evt) {
  svgpanJSSourceC& L >À> “>  ‘åŸè ≤
 $$
 _go_.o          0           0     0     644     438       `
-go object windows arm go1.15.2 X:framepointer
-build id "lAcKEHqspjgsy2YjDCv_/EMEvpzXXJ0_V2oQF2AZ-"
+go object windows arm go1.15.7 X:framepointer
+build id "RJP1VHp3yQJDo0Wxs356/D0jwRZQI3myERBpDIOEz"
 
 
 !
