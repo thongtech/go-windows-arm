@@ -4,7 +4,7 @@ package objabi
 
 import "runtime"
 
-const defaultGO386 = `387`
+const defaultGO386 = `sse2`
 const defaultGOARM = `7`
 const defaultGOMIPS = `hardfloat`
 const defaultGOMIPS64 = `hardfloat`
@@ -13,6 +13,6 @@ const defaultGOOS = runtime.GOOS
 const defaultGOARCH = runtime.GOARCH
 const defaultGO_EXTLINK_ENABLED = ``
 const defaultGO_LDSO = ``
-const version = `go1.15.7`
+const version = `go1.16`
 const stackGuardMultiplierDefault = 1
 const goexperiment = ``
